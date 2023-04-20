@@ -4,7 +4,7 @@ global.creator = 'MasRianofc'// yourname
 global.MONGO_DB_URI = "mongodb+srv://bottwa36:PNpGY49Lk97VUb3n@cluster0.bi3hwfh.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "Terserah apa aja" //isi apa aja bebas
 global.your_email = "botwas20@gmail.com" //email
-global.email_password = "botwa#1234" //application password email
+global.email_password = "skyvammbyqzsdmox" //application password email
 global.limitCount = 10000
 global.YUOR_PORT = 8000
 global.loghandler = {
