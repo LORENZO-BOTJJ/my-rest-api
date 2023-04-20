@@ -2,7 +2,7 @@ const fs = require('fs')
 
 global.creator = 'MasRianofc'// yourname
 global.MONGO_DB_URI = "mongodb+srv://bottwa36:PNpGY49Lk97VUb3n@cluster0.bi3hwfh.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
-global.ACTIVATION_TOKEN_SECRET = "Terserah apa aja" //isi apa aja bebas
+global.ACTIVATION_TOKEN_SECRET = "Terserah lh apa aja" //isi apa aja bebas
 global.your_email = "bottwa36@gmail.com" //email
 global.email_password = "skyvammbyqzsdmox" //application password email
 global.limitCount = 10000
